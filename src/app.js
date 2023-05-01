@@ -1,4 +1,12 @@
-
+/*
+* File: app.js
+* Author: Király Péter
+* Copyright: 2023, Király Péter
+* Group: Szoft-1-2-E
+* Date: 2023-05-01
+* Github: https://github.com/KiralyPeter/Webprogramozas_dolgozat_5.git
+* Licenc: GNU GPL
+*/
 
 const doc = {
     tbody: document.querySelector("#tbody")
